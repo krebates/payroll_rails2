@@ -11,3 +11,17 @@
  *= require_self
  *= require_tree .
  */
+
+.Owner {
+  font-weight:bold;
+  background-color:yellow;
+}
+
+.Commission, .Quota {
+  font-weight:bold;
+  color:green;
+}
+
+.RickyBobby {
+  background-color:yellow;
+}
